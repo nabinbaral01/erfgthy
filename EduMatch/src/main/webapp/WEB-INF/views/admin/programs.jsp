@@ -16,6 +16,9 @@
   </style>
 </head>
 <body>
+
+</head>
+<body>
 <%@ include file="/WEB-INF/views/common/header.jsp" %>
 <div class="d-flex">
   <div class="admin-sidebar py-4">
@@ -83,6 +86,7 @@
       </div>
     </div>
   </div>
+
 </div>
 <%@ include file="/WEB-INF/views/common/footer.jsp" %>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
